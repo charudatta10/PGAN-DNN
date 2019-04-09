@@ -1,5 +1,5 @@
-# P-GAN-DNN
-## GAN DNN
+# PGAN-DNN
+
  In this study, we propose Perceptual Generative Adversarial Networks (PGANs) for image-to-image transformations. Different
 from existing application driven algorithms, PGAN provides a generic framework of learning to map from input images to
 desired images, such as a rainy image to its de-rained counterpart, object edges to photos, and semantic labels to a
