@@ -1,5 +1,10 @@
 # PGAN-DNN
 
+<p align="center">
+  <img src="assets/cover.png" alt="PGAN-DNN" width="800"/>
+</p>
+
+
 Perceptual Generative Adversarial Networks for image-to-image transformation.
 
 ![Version](https://img.shields.io/github/v/release/charudatta10/PGAN-DNN)
